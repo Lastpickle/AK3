@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string= Lineage Kernel By @BystanderforU
+kernel.string= miku Kernel By @BystanderforU
 do.devicecheck=1
 do.modules=0
 do.systemless=1
